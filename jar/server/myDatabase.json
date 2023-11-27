@@ -1,0 +1,122 @@
+[
+  {
+    "username": "b",
+    "score": 1.0,
+    "account": {
+      "username": "b",
+      "password": "b",
+      "stat": {
+        "totPlayed": 1,
+        "totWon": 1,
+        "lastStreak": 1,
+        "bestStreak": 1,
+        "lastWordPlayed": "null",
+        "percVittorie": 100.0,
+        "guessDistribution": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "username": "c",
+    "score": 1.0,
+    "account": {
+      "username": "c",
+      "password": "c",
+      "stat": {
+        "totPlayed": 1,
+        "totWon": 1,
+        "lastStreak": 1,
+        "bestStreak": 1,
+        "lastWordPlayed": "null",
+        "percVittorie": 100.0,
+        "guessDistribution": [
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "username": "a",
+    "score": 1.5,
+    "account": {
+      "username": "a",
+      "password": "a",
+      "stat": {
+        "totPlayed": 2,
+        "totWon": 2,
+        "lastStreak": 0,
+        "bestStreak": 2,
+        "lastWordPlayed": "null",
+        "percVittorie": 100.0,
+        "guessDistribution": [
+          1,
+          1,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  },
+  {
+    "username": "d",
+    "score": 13.0,
+    "account": {
+      "username": "d",
+      "password": "d",
+      "stat": {
+        "totPlayed": 1,
+        "totWon": 0,
+        "lastStreak": 0,
+        "bestStreak": 0,
+        "lastWordPlayed": "null",
+        "percVittorie": 0.0,
+        "guessDistribution": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ]
+      }
+    }
+  }
+]
